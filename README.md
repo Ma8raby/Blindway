@@ -7,3 +7,5 @@ Team Members:
 4.Mazen Ahmed Ragab
 5.Rana Mohamed Seif El-Nasr
 6.Mriam Mansour
+figma link 
+https://www.figma.com/board/kdrvZPu3IdeTNc39V4rn8G/Yalla-Trip?node-id=0-1&t=MluOPorXfVlDiTCc-1
